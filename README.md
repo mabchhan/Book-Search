@@ -6,6 +6,15 @@
 
 This project is a full stack web application, that let user search books using google book API. This application is refactor Rest API to GraphQL.
 
+## Table of Contents
+
+- [User Story](#UserStory)
+- [Acceptance Criteria](#AcceptanceCriteria)
+- [Usage](#usage)
+- [Link to deployed](#linktodeployed)
+- [License](#license)
+- [Questions](#Questions)
+
 ## User Story
 
 ```
